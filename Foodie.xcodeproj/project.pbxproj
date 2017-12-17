@@ -58,11 +58,11 @@
 			children = (
 				614A13581FE6E5BF005B1788 /* Main.storyboard */,
 				614A13661FE6E744005B1788 /* RestaurantTableViewController.swift */,
+				614A13681FE6FBD5005B1788 /* RestaurantTableViewCell.swift */,
 				614A13541FE6E5BF005B1788 /* AppDelegate.swift */,
 				614A135B1FE6E5BF005B1788 /* Assets.xcassets */,
 				614A135D1FE6E5BF005B1788 /* LaunchScreen.storyboard */,
 				614A13601FE6E5BF005B1788 /* Info.plist */,
-				614A13681FE6FBD5005B1788 /* RestaurantTableViewCell.swift */,
 			);
 			path = Foodie;
 			sourceTree = "<group>";
